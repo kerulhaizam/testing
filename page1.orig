@@ -2,6 +2,7 @@ this is page 1
 
 edit page new vvv dsdsjdh
 A
+<<<<<<< HEAD
 B
 <<<<<<< HEAD
 C
@@ -9,3 +10,11 @@ C
 C
 D
 >>>>>>> 53b3b5c (dfdfdfd)
+=======
+<<<<<<< HEAD
+B
+=======
+B
+C
+>>>>>>> 46f1ae7 (sdskjds)
+>>>>>>> 1fd64d9 (ddfd)
